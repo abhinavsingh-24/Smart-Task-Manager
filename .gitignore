@@ -1,0 +1,19 @@
+# Python
+.venv/
+venv/
+.env
+!.env.example
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
